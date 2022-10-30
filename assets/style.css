@@ -1,10 +1,10 @@
-.image-hero {
-    width: 100px;
-    height: 100px;
+.img-hero {
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }
 .title {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Releway', sans-serif;
 }
 
 .subtitle {
@@ -12,13 +12,14 @@
 }
 
 #hero {
-    min-height: 95vh;
+    height: 95vh;
 }
 
 .text-abot {
     text-indent: 50px;
     text-align: justify;
 }
+
 .card-img-top {
     height: 200px;
     object-fit: cover;
